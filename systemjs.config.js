@@ -40,6 +40,10 @@
         main: 'moment.js',
         defaultExtension: 'js'
       },
+      lodash: {
+        // main: 'lodash.js',
+        defaultExtension: 'js'
+      },
     }
   });
 })(this);
